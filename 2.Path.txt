@@ -1,0 +1,13 @@
+path = require('path_customization')
+
+function path.shaping(path, pathIsClosed, upVector)
+    local section = {-0.02, 0.001, 0.02, 0.001}
+    local color = {0.3, 0.3, 0.3}
+    local options = 0
+    if pathIsClosed then
+        options = options | 4
+    end
+    local shape = sim.generateShapeFromPath(path, section, options, upVector)
+    sim.setShapeColor(shape, nil, sim.colorcomponent_ambient_diffuse, color)
+    return shape
+end
