@@ -1,0 +1,57 @@
+# 🤖 Bubble Rob Simulation using CoppeliaSim
+
+## 📌 Project Description
+
+This project demonstrates the creation and simulation of a **Bubble Rob** robot using **CoppeliaSim**.  
+The robot is designed to operate autonomously, avoid obstacles, and showcase fundamental robotic simulation concepts.
+
+---
+
+## 🚀 Features
+
+- Autonomous robot movement  
+- Obstacle avoidance behavior  
+- Basic robotic modeling and simulation  
+- Simple control logic implementation  
+
+---
+
+## 🛠️ Software Used
+
+- **CoppeliaSim**
+- **Lua scripting** (optional, for robot control)
+
+---
+
+## 📂 Project Structure
+
+
+---
+
+## ▶️ How to Run the Simulation
+
+1. Open **CoppeliaSim**
+2. Load the file:
+
+
+3. Click **Start Simulation**
+
+---
+
+## 🎯 Learning Outcomes
+
+- Understanding the CoppeliaSim environment  
+- Robot modeling basics  
+- Simulation control  
+- Implementing obstacle avoidance logic  
+
+---
+
+## 👨‍💻 Author
+
+**Dhanush Kannan S**  
+Robotics and Automation Engineering  
+
+---
+
+⭐ Feel free to fork this repository, explore the simulation, and experiment with robot behaviors!
